@@ -1,0 +1,100 @@
+{
+  "Owners": [
+    {
+      "Owner": {
+        "fullname": "John Doe",
+        "inn": "1234765498762378",
+        "properties": [
+          {
+            "Appartment": {
+              "worth": 56,
+              "square": 23
+            }
+          },
+          {
+            "Appartment": {
+              "worth": 1,
+              "square": 5
+            }
+          },
+          {
+            "Car": {
+              "worth": 7,
+              "horsepower": 8
+            }
+          },
+          {
+            "CountryHouse": {
+              "worth": 9,
+              "distance_from_city": 678
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Owner": {
+        "fullname": "Suren",
+        "inn": "123456789012",
+        "properties": [
+          {
+            "Appartment": {
+              "worth": 45,
+              "square": 678
+            }
+          },
+          {
+            "Car": {
+              "worth": 43,
+              "horsepower": 43
+            }
+          },
+          {
+            "Car": {
+              "worth": 3,
+              "horsepower": 43
+            }
+          },
+          {
+            "Car": {
+              "worth": 43,
+              "horsepower": 43
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Owner": {
+        "fullname": "Basilevs",
+        "inn": "123456789012",
+        "properties": [
+          {
+            "Appartment": {
+              "worth": 1234,
+              "square": 511
+            }
+          },
+          {
+            "Appartment": {
+              "worth": 1113,
+              "square": 1111
+            }
+          },
+          {
+            "CountryHouse": {
+              "worth": 456,
+              "distance_from_city": 111
+            }
+          },
+          {
+            "CountryHouse": {
+              "worth": 111,
+              "distance_from_city": 456
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
